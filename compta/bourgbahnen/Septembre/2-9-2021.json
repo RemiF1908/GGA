@@ -1,0 +1,178 @@
+{
+    "Dépenses Ressources Humaines": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Achat carburant": [
+        {
+            "Crédit": 6682
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Dépenses Domaine Skiable": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Construction de locaux": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Remboursements anticipés": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Achat de matériel": [
+        {
+            "Crédit": 197990
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Vente de matériel": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "CA transports": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 38583
+        }
+    ],
+    "CA domaine skiable": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 655919
+        }
+    ],
+    "CA hôtellerie": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 136365
+        }
+    ],
+    "CA restaurants": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 27429
+        }
+    ],
+    "CA parkings": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 33842
+        }
+    ],
+    "Dépenses & revenus location": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Revenus publicitaires": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Maintenance des remontées mécaniques": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Maintenance des dameuses": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Concours & mini-jeu": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 2000
+        }
+    ],
+    "CA domaine ski de fond": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 26559
+        }
+    ],
+    "Prévention des avalanches": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Subventions Conseil Général": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "Subventions de l'Etat": [
+        {
+            "Crédit": 0
+        },
+        {
+            "Débit": 0
+        }
+    ],
+    "TOTAL": [
+        {
+            "Crédit": 204672
+        },
+        {
+            "Débit": 920697
+        }
+    ]
+}

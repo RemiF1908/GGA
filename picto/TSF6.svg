@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="250"
+   viewBox="0 0 66.145832 66.145835"
+   version="1.1"
+   id="svg75"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="TSF6.svg">
+  <defs
+     id="defs69" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.44"
+     inkscape:cx="68.796095"
+     inkscape:cy="72.886954"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g49"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata72">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-230.85415)">
+    <g
+       id="g49"
+       transform="matrix(0.30805059,0,0,0.29860118,-10.488839,226.41293)">
+      <rect
+         id="rect16"
+         height="250"
+         width="250"
+         class="cls-1"
+         x="0"
+         y="0"
+         style="fill:none" />
+      <path
+         id="path18"
+         d="M 63.31,88.07 A 16.45,16.45 0 1 0 42.91,76.91 16.45,16.45 0 0 0 63.31,88.07 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#3d4754" />
+      <polygon
+         id="polygon20"
+         points="104.54,16.48 104.54,123.03 111.64,121.07 111.64,16.48 "
+         style="fill:#3d4754" />
+      <path
+         id="path22"
+         d="m 56.61,110.87 20,38.47 a 14.37,14.37 0 0 0 17.22,7.36 l 35.46,-10.65 c 0,0 0.31,24 0.35,35.28 0,12.16 17.74,12.09 17.7,0.1 V 133 c 0,-7.21 -7.88,-13.36 -13.5,-11.75 l -34,9.68 L 82,97 C 72.84,81 48,94.37 56.61,110.87 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#3d4754" />
+      <path
+         id="path24"
+         d="m 213.24,160.79 a 9.46,9.46 0 0 1 -6,11.95 l -158.41,54 2,6 158.39,-53.92 a 15.79,15.79 0 0 0 10,-20 z"
+         inkscape:connector-curvature="0"
+         style="fill:#3d4754" />
+      <path
+         id="path26"
+         d="m 88,178.66 a 33.58,33.58 0 0 0 9.76,-1.43 l 20.33,-5.93 c 10.34,-3 6.36,-16.59 -3.87,-13.48 l -19.34,5.66 a 31.58,31.58 0 0 1 -6.71,1.05 19.6,19.6 0 0 1 -17.36,-10.46 L 55.43,124 c -4.87,-9.6 -17.47,-3.2 -12.6,6.4 l 15.17,30 a 33.76,33.76 0 0 0 30,18.26 z"
+         inkscape:connector-curvature="0"
+         style="fill:#3d4754" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.16044617px;line-height:8;font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC';letter-spacing:0px;word-spacing:0px;fill:#3d4754;fill-opacity:1;stroke:none;stroke-width:0.62834263"
+       x="40.015438"
+       y="250.43465"
+       id="text103"
+       transform="scale(0.92794747,1.0776472)"><tspan
+         sodipodi:role="line"
+         id="tspan101"
+         x="40.015438"
+         y="250.43465"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC';fill:#3d4754;fill-opacity:1;stroke-width:0.62834263">x6</tspan></text>
+  </g>
+</svg>

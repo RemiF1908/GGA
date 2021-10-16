@@ -1,0 +1,106 @@
+table{
+margin-top: 5%;
+  border-collapse: collapse;
+  border-bottom: 2px solid rgb(200,200,200);
+  
+  letter-spacing: 1px;
+  font-size: 35px;
+  font-family: 'Roboto', sans-serif;
+  
+  margin-left: auto;
+  margin-right: auto;
+width: 30%;
+}
+
+td, th {
+  
+  padding: 10px 20px;
+  border-top: 2px solid rgb(200,200,200);
+  border-bottom: 2px solid rgb(200,200,200);
+  border-right: 2px solid rgb(200,200,200);
+    border-left:  2px solid rgb(200,200,200);
+    background-color: white;
+
+}
+#remboursé
+{
+	font-size: 10px;
+	text-align: right;
+}
+#empty{
+
+	border-top: 0px;
+	border-left: 0px;
+	background: transparent;
+	opacity: 0;
+}
+
+#infotarif{
+	margin-left: 2%;
+	  font-family: 'Roboto', sans-serif;
+	  font-size: 25px;
+	  margin-top: 5%;
+
+}
+
+.gris {
+	background-color: #D8D8D8;
+}
+
+.content {
+	display: flex;
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+#img1{
+max-width: 40%;
+	height: auto;
+box-shadow: 1px 1px 3px #aaa; }
+
+#grandalpe{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	  font-size: 25px;
+}
+
+   body{
+      background-color: #;
+    }
+
+        @media all and (min-width: 100px) and (max-width: 1000px){
+.content {
+	display: flex;
+	flex-direction: column;
+	width: 100%; /* Vous devez spécifiez une largeur */
+	margin: 0 auto;
+
+}
+#img1{
+max-width: 50em;
+	height: auto;
+box-shadow: 1px 1px 3px #aaa;
+margin-right: auto;
+margin-left: auto;
+margin-top: 10%;
+
+ }
+
+ table{
+ 	text-align: center;
+ 	border-right: 2px solid rgb(200,200,200);
+ 	border-bottom: 2px solid rgb(200,200,200);
+ 	width: 70%;
+	margin: 0 auto;
+	margin-top: 10%;
+	margin-bottom: 10%;
+
+ }
+#infotarif{
+	font-size: 15px;
+	margin-bottom: 10%;
+}
+#remboursé{
+	font-size: 5px;
+}
+        }

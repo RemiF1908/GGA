@@ -1,0 +1,180 @@
+{
+  "penses Ressources Humaines": [
+    {
+      "Crédit": 1800
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "Achat carburant": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "Dépenses Domaine Skiable": [
+    {
+      "Crédit": 2676500
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "Construction de locaux": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "Remboursements anticipés": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "Achat de matériel": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "Vente de matériel": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "CA transports": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 166086
+    }
+  ],
+  "CA domaine skiable": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 3230939
+    }
+  ],
+  "CA hôtellerie": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 680664
+    }
+  ],
+  "CA restaurants": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 113300
+    }
+  ],
+  "CA parkings": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 166033
+    }
+  ],
+  "Dépenses & revenus location": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "Revenus publicitaires": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "Maintenance des remontées mécaniques": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "Maintenance des dameuses": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "Concours & mini-jeu": [
+    {
+      "Crédit": 3000
+    },
+    {
+      "Débit": 44000
+    }
+  ],
+  "CA domaine ski de fond": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 74893
+    }
+  ],
+  "Prévention des avalanches": [
+    {
+      "Crédit": 160
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "Subventions Conseil Général": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "cat": [
+    {
+      "Crédit": 0
+    },
+    {
+      "Débit": 0
+    }
+  ],
+  "ppp": 78,
+  "Total": [
+    {
+      "Crédit": 2681460
+    },
+    {
+      "Débit": 4475915
+    }
+  ],
+  "pp": "ds"
+}

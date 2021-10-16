@@ -1,0 +1,29 @@
+#histoire{
+
+	text-align: justify;
+	font-family: 'Roboto', sans-serif;
+	font-size: 23px;
+	
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-bottom: 0;
+	margin-top: 0;
+	
+}
+h1{
+	margin-bottom: 5%;
+	margin-top: 2%;
+}
+body 
+{ 
+  background-color: #;
+ }
+
+ @media (max-width: 1000px){
+
+ 	#histoire
+ 	{
+ 		margin-bottom: 10%;
+ 	}
+
+ }

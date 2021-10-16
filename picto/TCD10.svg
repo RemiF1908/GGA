@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="250"
+   viewBox="0 0 66.145832 66.145835"
+   version="1.1"
+   id="svg75"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="TCD10.svg">
+  <defs
+     id="defs69">
+    <style
+       id="style910">.cls-1{fill:none;}</style>
+    <style
+       id="style864">.cls-1{fill:none;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.44"
+     inkscape:cx="142.3597"
+     inkscape:cy="175.64639"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata72">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-230.85415)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.32074547px;line-height:8;font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC';letter-spacing:0px;word-spacing:0px;fill:#3d4754;fill-opacity:1;stroke:none;stroke-width:0.48584887"
+       x="36.769382"
+       y="231.43637"
+       id="text103"
+       transform="scale(0.8873235,1.1269847)"><tspan
+         sodipodi:role="line"
+         id="tspan101"
+         x="36.769382"
+         y="231.43637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC';fill:#3d4754;fill-opacity:1;stroke-width:0.48584887">x10</tspan></text>
+    <g
+       transform="matrix(0.9285408,0,0,0.97000152,-1.4917152,6.9161848)"
+       id="layer1-1"
+       inkscape:label="Calque 1">
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,46.899015,51.286816)"
+         id="g21">
+        <path
+           style="fill:none"
+           inkscape:connector-curvature="0"
+           id="Tracé_71"
+           data-name="Tracé 71"
+           d="M 12.5,25 A 12.5,12.5 0 1 1 25,12.5 12.5,12.5 0 0 1 12.5,25 Z" />
+        <rect
+           id="rect870"
+           height="250"
+           width="250"
+           class="cls-1"
+           x="61.3988"
+           y="797.61884"
+           style="fill:none" />
+        <g
+           transform="matrix(0.18387911,0,0,0.19564567,-205.02528,727.46145)"
+           id="g908">
+          <g
+             id="g986"
+             transform="matrix(7.7583406,0,0,7.507689,-1216.4166,-6691.0685)">
+            <path
+               id="path872"
+               d="m 268.6488,938.10885 -1.15,-0.84 h -0.1 v -0.51 h -23.3 l 7.73,-6.1 0.33,-0.28 c 5.49,-5.31 7.93,-12.25 7.93,-22.5 v -7.81 l -8.69,1.93 v 5.86 c 0,7.83 -1.5,12.53 -5.17,16.16 l -16.11,12.72 h -26.3 v 0.51 h -0.22 l -1.15,0.84 a 55.55,55.55 0 0 0 0,89.23995 l 1.14,0.8501 h 63.87 l 1.14,-0.8501 a 55.55,55.55 0 0 0 0.05,-89.21995 z m -14.12,47.31 h -65.81 c 0,-0.89 -0.07,-1.79 -0.07,-2.69 a 46.51,46.51 0 0 1 17.87,-36.85 h 37.88 c 6.42,9 10.22,22.54 10.22,36.85 q -0.04,1.36 -0.09,2.69 z m 27.89,0 h -19.27 c 0,-0.89 0,-1.79 0,-2.69 0,-13.85 -3.11,-26.82 -8.67,-36.85 h 10.09 a 46.5,46.5 0 0 1 17.87,36.85 q 0.05,1.36 -0.04,2.69 z"
+               inkscape:connector-curvature="0"
+               style="fill:#3d4754" />
+            <rect
+               id="rect874"
+               transform="rotate(-12.74)"
+               height="5.7399998"
+               width="105.09"
+               y="923.70544"
+               x="-13.826217"
+               style="fill:#3d4754" />
+            <polygon
+               transform="translate(61.398799,797.61885)"
+               id="polygon876"
+               points="172.01,89.83 171.67,92.31 213.57,83.05 212.78,81.36 204.06,78.93 176.98,84.63 "
+               style="fill:#3d4754" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+ @media (max-width: 1000px){
+
+		 .station-flex
+		{
+			
+			display: flex;
+			flex-direction: column;
+			
+			
+		}
+		.table-piste
+		{
+
+				
+			
+		}
+		.table-rm
+		{
+		margin: auto;
+		}	
+		    .table-piste
+		{
+
+				margin-right: auto;
+
+			margin-left: auto;
+			
+		}
+		.table-rm
+		{
+			margin-right: auto;
+		}
+
+		main{
+			padding-bottom: 3em;
+		}
+		table{
+			width: 50%;
+			font-size: 1.5em;
+		}
+		.picto{
+	width: 2em;
+	
+	height: auto;
+}
+}

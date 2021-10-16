@@ -1,0 +1,257 @@
+table{
+	
+	margin-bottom: 5%;
+  border-collapse: collapse;
+  
+  letter-spacing: 1px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  
+
+width: 20%;
+   
+
+
+
+   
+
+   
+    
+    border-radius: 9px;
+    overflow: hidden;
+    box-shadow: 2px 2px 7px #DDD;
+
+}
+
+p{
+	text-align: center;
+}
+
+
+tr:nth-child(odd){
+
+		background-color: #F0F0F0;
+
+}	
+.nombre-infra{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+
+}
+.picto{
+	width: 30px;
+	height: auto;
+}
+
+
+td, th {
+  
+
+
+
+  
+    height: 0.5em;
+}
+th
+{
+
+	font-size: 30px;	
+	background-color: #51CCCA;
+}
+
+
+
+.logos2{
+	height: 110px;
+	width:  auto;
+	margin: 0 auto;
+	display: block;
+}
+.piste
+{
+	width: 77%;
+	
+}
+
+.nom{
+	width: 20%;
+}
+.info{
+	width: 15%;
+}
+.couleur{
+	width: 13%;
+}
+.info-couleur{
+	width: 3%;
+}
+.ouverture-piste{
+	width: 10%;
+
+}
+
+.station-flex
+{
+	
+	display: flex;
+	margin-top: 5%;
+	
+}
+
+.table-piste-info{
+	width: 40%;
+	margin-left: 5%;
+}
+.table-rm-info{
+	width: 40%;
+	margin-left: 5%;
+}
+.table-piste
+{
+
+		margin-right: 10%;
+
+	margin-left: 25%;
+	
+}
+.table-rm
+{
+	margin-right: 25%;
+}	
+
+h2
+{
+	text-align: center;
+}
+
+
+ 	table{
+	
+	margin-bottom: 5%;
+  border-collapse: collapse;
+  
+  letter-spacing: 1px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  
+
+width: 20%;
+   
+
+
+
+   
+
+   
+    
+    border-radius: 9px;
+    overflow: hidden;
+    box-shadow: 2px 2px 7px #DDD;
+
+}
+
+p{
+	text-align: center;
+}
+
+
+tr:nth-child(odd){
+
+		background-color: #F0F0F0;
+
+}	
+.nombre-infra{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+
+}
+.picto{
+	width: 30px;
+	height: auto;
+}
+
+
+td, th {
+  
+
+
+
+  
+    height: 0.5em;
+}
+th
+{
+
+	font-size: 30px;	
+	background-color: #51CCCA;
+}
+
+
+
+.logos2{
+	height: 110px;
+	width:  auto;
+	margin: 0 auto;
+	display: block;
+}
+.piste
+{
+	width: 77%;
+	
+}
+
+.nom{
+	width: 20%;
+}
+.info{
+	width: 15%;
+}
+.couleur{
+	width: 13%;
+}
+.info-couleur{
+	width: 3%;
+}
+.ouverture-piste{
+	width: 10%;
+
+}
+
+.station-flex
+{
+	
+	display: flex;
+	margin-top: 5%;
+	
+}
+
+.table-piste-info{
+	width: 40%;
+	margin-left: 5%;
+}
+.table-rm-info{
+	width: 40%;
+	margin-left: 5%;
+}
+.table-piste
+{
+
+		margin-right: 10%;
+
+	margin-left: 25%;
+	
+}
+.table-rm
+{
+	margin-right: 25%;
+}	
+
+h2
+{
+	text-align: center;
+}
+
+
+ 	

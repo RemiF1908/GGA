@@ -1,0 +1,307 @@
+
+.noSticky{
+	position: relative;
+}
+
+.with--sidebar{
+	color: green;
+}
+
+.overlay{
+	background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgb(97, 149, 194) 120%);
+	width: 100%;
+	height:100%;
+}
+
+.centrage-texte{
+	display: flex;
+	margin: auto;
+	width: 100%;
+	height: 100%;
+}
+.ldBar .label-center{
+width: 50%;
+height: auto;
+
+}
+.flex-barre{
+	display: flex;
+	margin: auto;
+}
+ .ldBar-label {
+
+    color: #09f;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    font-weight: 900;
+
+  }
+  .ldBar{
+  	margin-right: 2%;
+  }
+  .ldBar path.mainline {
+    ...
+    /* styling of bar omitted */}
+    #rm{
+    margin-left: 5%;
+}
+.iden
+{
+	margin-top: 1em;
+
+	display: flex;
+    font-family: 'Kanit', sans-serif;
+
+
+	font-size: 20px;
+	margin-right: 1em;
+	flex-wrap: wrap;
+	color: black;
+	text-decoration: none;
+}
+
+
+h1
+{
+	text-align: center;
+	font-size: 70px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.title1
+{
+	font-size: 110px;
+}
+
+#text-prez2
+{
+	margin:  auto ;
+	color: white;
+	text-align: center;
+	width: 40%;
+}
+
+.prez
+{
+	font-size: 30px;
+
+
+    font-family: 'Roboto', sans-serif;
+
+
+	display: flex; /* contexte sur le parent */
+
+
+
+}
+.insta{
+	width: 30%;
+	height: auto;
+}
+.instagram
+{
+		font-size: 24px;
+
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#image-defil
+{
+	height: 90vh;
+	background: url("/image/montagne3.JPG");
+	background-repeat: no-repeat;
+	margin-bottom: 0%;
+	color: black;
+	background-position: right bottom;
+
+
+}
+
+body
+{
+	 margin: 0;
+}
+
+
+#prez-station
+{
+	margin-top: 5%;
+	margin-left: 7%;
+	margin-right: 7%;
+}
+
+.prez-station
+{
+	margin-left: 5%;
+
+
+    font-family: 'Roboto', sans-serif;
+
+
+	font-size: 26px;
+	display: flex;
+	margin-top: 2%;
+
+
+}
+
+.prez-station2
+{
+	margin-left: 5%;
+
+
+    font-family: 'Roboto', sans-serif;
+
+
+	font-size: 26px;
+	display: flex;
+	margin-top: 2%;
+
+
+}
+
+h2
+{
+font-family: 'Yanone Kaffeesatz';
+font-size: 50px;
+	margin-top: 10%;
+	margin-bottom: 4%;
+
+}
+
+.ilustration-droite
+{
+	width: 45%;
+	height: auto;
+	margin-left:  15%;
+
+}
+
+.ilustration-gauche
+{
+	width: 45%;
+	height: auto;
+
+
+}
+.text-prez-station-gauche
+{
+	width: 40%;
+	text-align: justify;
+
+}
+.text-prez-station-droite
+{
+	width: 40%;
+	text-align: justify;
+	margin-left: 15%;
+
+}
+
+
+footer{
+
+
+	background-color: #F9F9F9;
+	display: flex;
+	font-size: 16px;
+
+
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.footer{
+	margin-right: 3%;
+}
+p
+{
+
+
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+a
+{
+	color: black;
+	text-decoration: none;
+}
+a:hover
+{
+	text-decoration: underline;
+}
+
+#menu-footer
+{
+	margin-left: 20em;
+	display: flex;
+
+}
+#lien-gauche
+
+{
+	margin-right: 3em;
+}
+
+#margin-footer
+{
+	margin-bottom: 10%;
+}
+
+#logo-station
+{
+
+	text-align: center;
+}
+
+.logo-station
+{
+	margin-top: 2em;
+	display: inline;
+	width:  auto;
+	height: 100px;
+	margin-right: : 3em;
+	margin-left: 3em;
+}
+
+
+.logos{
+	height: 110px;
+	width:  auto;
+	margin-left: 2em;
+
+}
+#logos
+{
+	text-align: center;
+	display: block;
+	padding-top: 2em;
+}
+strong{
+	font-family: 'Roboto', sans-serif;
+}
+@media all and (min-width: 1000px) and (max-width: 1700px){
+.title1{
+	font-size: 65px;
+
+}
+.prez{
+	font-size: 20px;
+}
+.bouton{
+	font-size: 17px;
+}
+}
+
+@media (max-width: 1200px){
+.logo{
+height: 100px;
+width: auto;
+}
+
+
+}

@@ -1,0 +1,61 @@
+select{
+margin-bottom:  4%;
+}
+
+input{
+	
+	font-size: 45px;
+	margin-bottom:  4%;
+	  border-top: 2px solid rgb(200,200,200);
+  border-bottom: 2px solid rgb(200,200,200);
+  border-right: 2px solid rgb(200,200,200);
+    border-left:  2px solid rgb(200,200,200);
+}
+.inscrire
+{
+ border-top: 2px solid rgb(200,200,200);
+  border-bottom: 2px solid rgb(200,200,200);
+  border-right: 2px solid rgb(200,200,200);
+    border-left:  2px solid rgb(200,200,200);
+    background-color: grey;
+font-size: 35px;
+
+}
+form
+{
+	margin-top: 10%;
+	font-size: 20px;
+
+}
+main{
+	margin-bottom: 15%;
+	margin-left: 10%;
+	font-family: 'Kanit', sans-serif;
+
+}
+label{
+	margin-right: 5%;
+}
+
+
+@media all and (min-width: 100px) and (max-width: 1000px)
+{
+select{
+	margin-bottom: 2%;
+	font-size: 45px;
+}
+input{
+	margin-bottom: 2em;
+	font-size: 45px;
+	margin-top: 5em;
+	  border-top: 2px solid rgb(200,200,200);
+  border-bottom: 2px solid rgb(200,200,200);
+  border-right: 2px solid rgb(200,200,200);
+    border-left:  2px solid rgb(200,200,200);
+}
+
+main{
+	margin-bottom: 10%;
+}
+
+}

@@ -1,0 +1,16 @@
+{
+  "1-7": {
+    "bas": [
+      { "vent": "Vent très fort Sud/Est", "temps": "Variable" }
+    ],
+    "haut": [
+      { "vent": "Vent faible Sud/Est", "temps": "Variable" }
+    ]
+  },
+  "18-7-2021": {
+    "bas":
+      { "vent": "Vent très fort Sud/Est", "temps": "Variable" },
+    "haut":
+    { "vent": "Vent faible Sud/Est", "temps": "Variable" }
+
+  }}

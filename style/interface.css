@@ -1,0 +1,175 @@
+.debit{
+	width: 90%;
+}
+.largeur{
+	width: 0;
+	display: none;
+}
+.table-piste-2{
+	margin-bottom: 5%;
+	border-collapse: collapse;
+	margin-left: 1%;
+	letter-spacing: 1px;
+	font-size: 1.1vw;
+	font-family: 'Roboto', sans-serif;
+	width: 48%;
+	border-radius: 9px;
+	overflow: hidden;
+	box-shadow: 2px 2px 7px #DDD;
+
+}
+.table-piste{
+	
+	margin-bottom: 5%;
+  border-collapse: collapse;
+  
+  letter-spacing: 1px;
+  font-size: 1.1vw;
+  font-family: 'Roboto', sans-serif;
+	width: 96%;
+    border-radius: 9px;
+    overflow: hidden;
+    box-shadow: 2px 2px 7px #DDD;
+
+}
+	
+
+.picto{
+	width: 30px;
+	height: auto;
+}
+
+.form_id{
+	display: none;
+}
+td, th {
+
+    height: 0.5em;
+}
+th
+{
+
+	font-size: 30px;	
+	background-color: #51CCCA;
+}
+
+
+tr:nth-child(odd){
+
+		background-color: #F0F0F0;
+
+}	
+.piste
+{
+
+	
+}
+main
+{
+	margin-bottom: 5%;
+}
+
+.couleur{
+	width: 1%;
+		
+
+
+}
+.ouverture-piste{
+	width: 10%;
+
+}
+
+.station-flex
+{
+	display: flex;
+}
+
+
+.table-piste
+{
+
+	margin-left: 1%;
+	
+}
+.hide{
+	display: none;
+}
+.table-rm
+{
+	margin-left: 2%;
+	margin-bottom: 5%;
+	border-collapse: collapse;
+
+	letter-spacing: 1px;
+	font-size: 1.1vw;
+	font-family: 'Roboto', sans-serif;
+	width: 96%;
+	border-radius: 9px;
+	overflow: hidden;
+	box-shadow: 2px 2px 7px #DDD;
+}
+.table-rm-2
+{
+	margin-left: 2%;
+	margin-bottom: 5%;
+	border-collapse: collapse;
+
+	letter-spacing: 1px;
+	font-size: 1.1vw;
+	font-family: 'Roboto', sans-serif;
+	width: 48%;
+	border-radius: 9px;
+	overflow: hidden;
+	box-shadow: 2px 2px 7px #DDD;
+}
+h2
+{
+	text-align: center;
+}
+form{
+	width: 100%;
+}
+.station-complet-flex{
+	display: flex;
+	flex-direction: row;
+}
+.case_picto
+ {
+ 	width: 30px;
+ 	height: auto;
+ }
+
+  @media (max-width: 1000px){
+
+.station-flex
+{
+	
+	display: flex;
+	flex-direction: column;
+
+	
+}
+
+table{
+	
+	margin-bottom: 5%;
+  border-collapse: collapse;
+  
+  letter-spacing: 1px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+	width: 90%;
+    border-radius: 9px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: 2px 2px 7px #DDD;
+
+}
+	.largeur{
+	width: 0;
+	display: none;
+}
+  }
