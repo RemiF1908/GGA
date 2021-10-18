@@ -88,8 +88,8 @@ else{
                     title: '',
                     subtitle: ''
                 },
-                width: 900,
-                height: 500
+                width: screen.width-(screen.width*0.1),
+                height: screen.height
             };
 
             var chart = new google.charts.Line(document.getElementById('linechart_material'));
@@ -167,11 +167,85 @@ else{
                     title: '',
                     subtitle: ''
                 },
-                width: 900,
+                width: screen.width-(screen.width*0.1),
                 height: 500
             };
 
             var chart = new google.charts.Line(document.getElementById('linechart_material2'));
+
+            chart.draw(data, google.charts.Line.convertOptions(options));
+        }
+
+
+
+    </script>
+    <script type="text/javascript">
+
+        google.charts.load('current', {'packages':['line']});
+        google.charts.setOnLoadCallback(drawChart);
+
+        function drawChart() {
+
+            var data = new google.visualization.DataTable();
+            data.addColumn('number', 'Jours');
+            data.addColumn('number', 'Brégars');
+            data.addColumn('number', 'Alpe blanche');
+            data.addColumn('number', 'Capleit');
+            data.addColumn('number', 'Valrige');
+            data.addColumn('number', 'Cevert');
+            data.addColumn('number', 'Federia');
+            data.addColumn('number', 'Hautacam');
+            data.addColumn('number', 'Bourgbahnen');
+
+            data.addRows([
+                <?php
+                $jsonliste=[];
+
+                $parsed_json=array();
+                $json=array();
+
+                for ($i = 1; $i <= 31; $i++) {
+                    if(file_exists('./compta/'.'bregars'.'/'.$mois.'/'.$i.'-'.$moisc.'-2021.json')){
+
+
+                        foreach($stationsdeg as $station){
+                            $json[]=file_get_contents('./compta/'.$station.'/'.$mois.'/'.$i.'-'.$moisc.'-2021.json');
+                            $parsed_json[]=json_decode(end($json));
+                        }
+
+
+                        $req='['.$i.','
+                            .($parsed_json[0]->{'TOTAL'}[1]->{'Débit'}-$ca[0]->{'TOTAL'}[1]->{'Débit'}).','
+                            .($parsed_json[1]->{'TOTAL'}[1]->{'Débit'}-$ca[1]->{'TOTAL'}[1]->{'Débit'}).','
+                            .($parsed_json[2]->{'TOTAL'}[1]->{'Débit'}-$ca[2]->{'TOTAL'}[1]->{'Débit'}).','
+                            .($parsed_json[3]->{'TOTAL'}[1]->{'Débit'}-$ca[3]->{'TOTAL'}[1]->{'Débit'}).','
+                            .($parsed_json[4]->{'TOTAL'}[1]->{'Débit'}-$ca[4]->{'TOTAL'}[1]->{'Débit'}).','
+                            .($parsed_json[5]->{'TOTAL'}[1]->{'Débit'}-$ca[5]->{'TOTAL'}[1]->{'Débit'}).','
+                            .($parsed_json[6]->{'TOTAL'}[1]->{'Débit'}-$ca[6]->{'TOTAL'}[1]->{'Débit'}).','
+                            .($parsed_json[7]->{'TOTAL'}[1]->{'Débit'}-$ca[7]->{'TOTAL'}[1]->{'Débit'}).
+                            '],';
+                        echo $req;
+                        $ca=$parsed_json;
+
+                        $parsed_json=array();
+                        $json=array();
+                    }
+                }
+                ?>
+
+
+            ]);
+
+            var options = {
+                chart: {
+                    title: 'CA par jour',
+                    subtitle: ''
+                },
+                width: screen.width-(screen.width*0.1),
+                height: screen.height
+            };
+
+            var chart = new google.charts.Line(document.getElementById('linechart_material3'));
 
             chart.draw(data, google.charts.Line.convertOptions(options));
         }
@@ -187,6 +261,7 @@ else{
     <h1>Les statistiques du GGA !</h1>
     <div id="linechart_material"></div>
     <div id="linechart_material2"></div>
+    <div id="linechart_material3"></div>
 
 </main>
 </html>
